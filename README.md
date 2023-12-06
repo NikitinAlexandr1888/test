@@ -1,1 +1,4 @@
-# Hello, world!git 
+# Hello, world!
+
+I study in Netology
+
